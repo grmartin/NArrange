@@ -1,0 +1,90 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="-2103271275">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 23:51:43</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="VBKeywordTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>204</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="VBSymbolTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>308</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="VBTestFile.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>242</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ConstructorSummaryDocumentationMustBeginWithStandardText" ruleCheckId="SA1642">
+        <context>The documentation text within the constructor's summary tag must begin with the text: Initializes a new instance of the {Type name} class.</context>
+        <line>45</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="VBTestUtilities.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>706</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="VBWriteArrangedTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>350</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="VBWriterTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 22:52:11</timestamp>
+    <milliseconds>206</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'vbWriter' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>1147</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="VBParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/05/2009 03:14:58</timestamp>
+    <milliseconds>202</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

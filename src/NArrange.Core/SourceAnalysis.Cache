@@ -1,0 +1,933 @@
+<sourceanalysisresultscache>
+  <version>9</version>
+  <project key="-2076235900">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="BackupUtilities.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>572</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ChainElementArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>622</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 22:31:05</timestamp>
+    <milliseconds>214</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AttributedElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>580</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AttributeElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>580</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>595</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommentedElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>572</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommentElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>597</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConditionDirectiveElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>573</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConstructorElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>581</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DelegateElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>581</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementComparer.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 21:21:28</timestamp>
+    <milliseconds>583</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementUtilities.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>620</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EventElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>582</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FieldElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>594</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GroupElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>574</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IAttributedElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:17</timestamp>
+    <milliseconds>452</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IAttributeElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:17</timestamp>
+    <milliseconds>437</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICodeElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:17</timestamp>
+    <milliseconds>507</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICodeElementVisitor.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:17</timestamp>
+    <milliseconds>258</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICommentElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:17</timestamp>
+    <milliseconds>401</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IGenericElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:17</timestamp>
+    <milliseconds>579</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="InterfaceMemberElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>575</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="InterfaceReference.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>574</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MemberElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>594</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MethodElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>593</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="NamespaceElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>623</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PropertyElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>582</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>576</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TextCodeElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>575</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TypeElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/04/2008 23:16:53</timestamp>
+    <milliseconds>190</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TypeParameter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>596</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UsingElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>597</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/10/2008 22:16:37</timestamp>
+    <milliseconds>266</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeWriter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/04/2008 00:29:41</timestamp>
+    <milliseconds>733</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeWriteVisitor.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 23:51:43</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommonAssemblyInfo.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/11/2008 02:18:18</timestamp>
+    <milliseconds>651</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConditionExpressionEvaluator.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>577</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BinaryOperatorExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>578</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ClosingCommentConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>598</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>579</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConditionExpressionParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 21:58:59</timestamp>
+    <milliseconds>982</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationElement.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/10/2008 17:22:52</timestamp>
+    <milliseconds>860</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationElementCollection.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/10/2008 21:23:16</timestamp>
+    <milliseconds>760</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementAttributeExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>604</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>611</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementReferenceConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>602</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EncodingConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>601</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExtensionConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>608</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExtensionConfigurationCollection.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/10/2008 21:23:40</timestamp>
+    <milliseconds>132</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileAttributeExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>604</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FilterBy.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>609</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FormattingConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>600</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GroupBy.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>611</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="HandlerConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>600</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="HandlerConfigurationCollection.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/10/2008 21:23:40</timestamp>
+    <milliseconds>171</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IConditionExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:19</timestamp>
+    <milliseconds>767</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="LeafExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>609</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="LineSpacingConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>599</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectHandlerConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 22:52:46</timestamp>
+    <milliseconds>285</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>612</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionFormatConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>602</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SortBy.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>610</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SourceHandlerConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>603</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="StringExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>612</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TabConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>608</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UnaryOperatorExpression.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 21:58:59</timestamp>
+    <milliseconds>982</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UsingConfiguration.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>599</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConsoleLogger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>614</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DefaultElementInserter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>621</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>621</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementArrangerFactory.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>623</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementFilter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>607</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Enumerations.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/04/2008 23:34:09</timestamp>
+    <milliseconds>855</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EnumUtilities.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>616</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 21:59:00</timestamp>
+    <milliseconds>29</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileFilter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>606</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileUtilities.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>606</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GroupedInserter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/10/2008 23:09:58</timestamp>
+    <milliseconds>367</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICodeArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>930</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICodeElementParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>734</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICodeElementWriter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>818</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IElementArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>96</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IElementFilter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>706</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IElementInserter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>63</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IFileFilter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>554</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ILogger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>789</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IProjectParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>837</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ISolutionParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:21</timestamp>
+    <milliseconds>868</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MonoDevelopProjectParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>605</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MonoDevelopSolutionParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>605</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MonoUtilities.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>615</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MSBuildProjectParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>615</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MSBuildSolutionParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>617</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ParseException.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>623</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectHandler.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>605</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectManager.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>618</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 23:51:43</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionArranger.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>619</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SolutionParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>619</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SortedInserter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>624</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SourceHandler.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>620</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ZipUtilities.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>625</milliseconds>
+    <violations />
+  </sourcecode>
+</sourceanalysisresultscache>

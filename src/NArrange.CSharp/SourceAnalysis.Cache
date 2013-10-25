@@ -1,0 +1,78 @@
+<sourceanalysisresultscache>
+  <version>9</version>
+  <project key="580865756">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="CommonAssemblyInfo.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/11/2008 02:18:18</timestamp>
+    <milliseconds>651</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CSharpExtendedProperties.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>679</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CSharpKeyword.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>679</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CSharpSymbol.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>688</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CSharpWriter.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>689</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CSharpWriteVisitor.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 22:58:42</timestamp>
+    <milliseconds>650</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 23:51:43</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CSharpParser.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/24/2008 00:25:37</timestamp>
+    <milliseconds>660</milliseconds>
+    <violations />
+  </sourcecode>
+</sourceanalysisresultscache>

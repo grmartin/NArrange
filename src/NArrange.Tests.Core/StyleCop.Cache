@@ -1,0 +1,608 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="2033547095">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="BackupUtilitiesTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>354</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ChainElementArrangerTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>249</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ConstructorSummaryDocumentationMustBeginWithStandardText" ruleCheckId="SA1642">
+        <context>The documentation text within the constructor's summary tag must begin with the text: Initializes a new instance of the {Type name} class.</context>
+        <line>135</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AttributeElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>363</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AttributedElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>192</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommentedElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>187</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommentElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>295</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>241</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommentLineElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>347</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConditionDirectiveElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>228</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConstructorElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>259</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementUtilitiesTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 22:45:26</timestamp>
+    <milliseconds>577</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EventElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>196</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FieldElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>245</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GroupElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>204</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="NamespaceElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>354</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MethodElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>295</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>259</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PropertyElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>357</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TypeElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>184</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TypeParameterTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>256</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UsingElementTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 22:51:43</timestamp>
+    <milliseconds>433</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeWriterTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommonAssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>07/07/2009 02:15:26</timestamp>
+    <milliseconds>202</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BinaryOperatorExpressionTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>316</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConditionExpressionEvaluatorTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>206</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CodeConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>313</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>233</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementReferenceConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>185</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EncodingConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>215</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExtensionConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>316</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileAttributeExpressionTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>359</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FilterByTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>264</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FormattingConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>198</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConditionExpressionParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>256</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GroupByTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>246</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="LineSpacingConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>194</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="InterfaceReferenceTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>227</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectHandlerConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>362</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionFormatConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>349</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>236</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SourceHandlerConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>192</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SortByTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>265</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UnaryOperatorExpressionTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>229</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TabConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>216</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementArrangerFactoryTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>218</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UsingConfigurationTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>211</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EnumUtilitiesTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>265</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ElementFilterTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>202</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileUtilitiesTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>306</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ISourceCodeTestFile.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>07/26/2008 21:41:37</timestamp>
+    <milliseconds>898</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MonoDevelopProjectParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>195</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MonoDevelopSolutionParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>190</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MSBuildProjectParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>260</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MSBuildSolutionParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>257</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectHandlerTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>236</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectManagerTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>200</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 23:51:43</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GroupedInserterTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/05/2009 02:54:34</timestamp>
+    <milliseconds>368</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SolutionParserTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>181</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RegionArrangerTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>230</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TestLogger.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>344</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>53</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ConstructorSummaryDocumentationMustBeginWithStandardText" ruleCheckId="SA1642">
+        <context>The documentation text within the constructor's summary tag must begin with the text: Initializes a new instance of the {Type name} struct.</context>
+        <line>181</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="TestUtilities.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>189</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="WriteArrangedTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>261</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ZipUtilitiesTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>359</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SortedInserterTests.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>12/04/2009 00:11:34</timestamp>
+    <milliseconds>235</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

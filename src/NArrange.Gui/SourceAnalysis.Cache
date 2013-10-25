@@ -1,0 +1,141 @@
+<sourceanalysisresultscache>
+  <version>9</version>
+  <project key="1608369239">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="CommonAssemblyInfo.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/11/2008 02:18:18</timestamp>
+    <milliseconds>651</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationElementCollectionEditor.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>725</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationElementTypeDescriptionProvider.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 21:59:00</timestamp>
+    <milliseconds>44</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ListItemTreeNode.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>728</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ListPropertyTreeNode.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>729</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/08/2008 23:51:43</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PropertyTreeNode.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>729</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BaseForm.Designer.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>07/26/2008 21:40:42</timestamp>
+    <milliseconds>740</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BaseForm.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 05:57:11</timestamp>
+    <milliseconds>107</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationEditorControl.Designer.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>07/26/2008 21:40:42</timestamp>
+    <milliseconds>627</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationEditorForm.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>727</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationEditorForm.Designer.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>07/26/2008 21:40:42</timestamp>
+    <milliseconds>656</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationPicker.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>728</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationEditorControl.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>08/03/2008 06:01:31</timestamp>
+    <milliseconds>727</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigurationPicker.Designer.cs" parser="Microsoft.SourceAnalysis.CSharp.CsParser">
+    <settings>
+      <timestamp>07/26/2008 21:40:59</timestamp>
+      <milliseconds>740</milliseconds>
+    </settings>
+    <timestamp>07/26/2008 21:40:42</timestamp>
+    <milliseconds>690</milliseconds>
+    <violations />
+  </sourcecode>
+</sourceanalysisresultscache>
